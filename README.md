@@ -1,6 +1,7 @@
 # uctf
 
 Unmanned Capture the Flag (U-CTF) project.
+This repository is a fork of the oringal U-CTF project that has been[in progress] updated for use in ROS2 {VERSION}.
 
 Please see the [documentation](doc/readme.md) in the `doc` subfolder for more information.
 
